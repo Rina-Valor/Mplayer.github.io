@@ -9,7 +9,6 @@
 
 	}
 	section {
-		background-color: white;
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
@@ -108,7 +107,7 @@ header {
 }
 
 .bg1 {
-	background-color: #ffe400;
+	background-color: #df177e;
 }
 
 .bg2 {
