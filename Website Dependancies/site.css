@@ -32,7 +32,7 @@
 		flex: 1;
 	}
 	section { 
-	background-color: white;
+	background-color: rgb(255, 180, 232);
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -51,7 +51,7 @@ body {
 	font-family: 'Roboto Slab', serif;
 	margin: 0;
 	padding: 0;
-	background-color: white;
+	background-color: rgb(255, 163, 249);
 }
 
 h1 {
@@ -111,11 +111,11 @@ header {
 }
 
 .bg2 {
-	background-color: #001bff;
+	background-color: #e62ac0;
 }
 
 .bg3 {
-	background-color: #d2d2d2;
+	background-color: #ff8fe9;
 }
 
 iframe {
@@ -127,13 +127,13 @@ iframe {
 
 footer {
 	height: 100px;
-	background-color: #001bff;
+	background-color: #b900f1;
 }
 
 #complete {
-	background-color: green;
+	background-color: pink;
 }
 
 #incomplete {
-	background-color: red;
+	background-color: lightpink;
 }
