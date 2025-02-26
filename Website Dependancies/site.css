@@ -62,7 +62,7 @@ h1 {
 }
 
 h2,h3,h4 {
-	font-size: 1.8rem;
+
 	color: black;
 	display: block;
 	text-align: left;
@@ -86,7 +86,9 @@ ul {
 li {
 	list-style-position: inside;
 }
-
+#video {
+	background-color: rgb(226, 43, 150);
+}
 img {
 	display: block;
 	margin-left: auto;
